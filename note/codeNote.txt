@@ -1,0 +1,3 @@
+#ls -a
+Used in Mac terminal to show all hidden files
+
